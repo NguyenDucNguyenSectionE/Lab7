@@ -1,0 +1,22 @@
+.header {
+    text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    font-size: 35px;
+    
+}
+h2 {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.form {
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+button {
+background-color: azure;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+background-color: bisque;
+}
